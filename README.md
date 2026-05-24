@@ -1,2 +1,3 @@
-# ZopaHook-vibehook.cc-
-vibecoding activate!
+#Zopahook(vibehook.cc)
+dont bypass server (maybe)
+full vibecode client

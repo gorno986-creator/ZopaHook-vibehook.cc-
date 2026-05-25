@@ -1,3 +1,3 @@
-#Zopahook(vibehook.cc)
+#Zopahook(vibehook.cc) cheat for garrys mode
 dont bypass server (maybe)
 full vibecode client
